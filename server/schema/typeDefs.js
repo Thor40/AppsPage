@@ -4,9 +4,9 @@ const typeDefs = gql`
 
 type Query {
         listApps {
-        items {
-            name
-            img
+            items {
+                name
+                img
             }
         }
     } 
